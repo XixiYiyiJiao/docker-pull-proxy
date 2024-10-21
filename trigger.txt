@@ -1,1 +1,1 @@
-postgres:15-alpine crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/postgres:15-alpine
+semitechnologies/weaviate:1.19.0 crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/weaviate:1.19.0
