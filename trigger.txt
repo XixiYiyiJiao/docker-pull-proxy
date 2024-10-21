@@ -1,1 +1,1 @@
-nginx:latest crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/nginx:latest
+langgenius/dify-sandbox:0.2.10 crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/dify-sandbox:0.2.10
