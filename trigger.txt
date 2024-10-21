@@ -1,1 +1,1 @@
-ubuntu/squid:latest crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/squid:latest
+nginx:latest crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/nginx:latest
