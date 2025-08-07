@@ -1,1 +1,1 @@
-minio/minio:latest crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/minio:arm64
+minio/minio:latest crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/minio:latest
