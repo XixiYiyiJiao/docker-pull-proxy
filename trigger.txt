@@ -1,4 +1,4 @@
-nacos/nacos-server:2.3.2 crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/nacos/nacos-server:2.3.2
+nacos/nacos-server:latest crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/nacos/nacos-server:latest
 
 
 
