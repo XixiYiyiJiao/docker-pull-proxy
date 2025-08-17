@@ -1,4 +1,4 @@
- mysql:8.0.41 crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/mysql:8.0.41
+nacos/nacos-server crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/nacos/nacos-server
 
 
 
