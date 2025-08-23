@@ -1,4 +1,4 @@
-nacos/nacos-server:v2.1.1 crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/nacos-server:v2.1.1
+foxiswho/rocketmq:broker-4.5.1 crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/rocketmq:broker-4.5.1
 
 
 
