@@ -1,4 +1,4 @@
-foxiswho/rocketmq:broker-4.5.1 crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/rocketmq:broker-4.5.1
+pangliang/rocketmq-console-ng:latest crpi-ptr56ipj8attn0sv.cn-hangzhou.personal.cr.aliyuncs.com/dify-chenxi/rocketmq-console-ng:latest
 
 
 
